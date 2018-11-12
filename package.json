@@ -1,0 +1,28 @@
+{
+  "name": "@kth/kth-validation",
+  "version": "1.0.0",
+  "description": "Validation utils commonly used in KTH Node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KTH/kth-validation.git"
+  },
+  "keywords": [
+    "kth",
+    "node",
+    "validation"
+  ],
+  "author": "pontusn@kth.se",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KTH/kth-validation/issues"
+  },
+  "homepage": "https://github.com/KTH/kth-validation#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
